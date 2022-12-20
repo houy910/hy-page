@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: pitter的博客
-  text: 随便写点啥.
+  text: 我也不知道写啥
   tagline: 帅气又迷人的pitter
   image:
     src: /logo.png
@@ -27,4 +27,3 @@ features:
     title: 这是一个修理图标
     details: cocococo
 ---
-
