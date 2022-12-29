@@ -3,7 +3,7 @@ export default {
     description: '喜喜',
     themeConfig: {
         siteTitle: 'pitter',
-        logo: "/logo.png",
+        logo: "/img/logo.png",
         nav: [
             { text: 'Guide', link: '/arcticles/item-a' },
             { text: 'Configs', link: '/configs' },
@@ -15,12 +15,18 @@ export default {
         sidebar: {
             '/arcticles': [
                 {
-                    text: 'Section Title A',
+                    text: 'vue',
                     collapsible: true,
                     collapsed: true,
                     items: [
-                      { text: 'Item A', link: '/arcticles/item-a' },
-                      { text: 'Item B', link: '/arcticles/item-b' },
+                      { text: 'renderer', link: '/arcticles/renderer' },
+                      { text: 'essence-of-comp', link: '/arcticles/essence-of-comp' },
+                      { text: 'h', link: '/arcticles/h' },
+                      { text: 'renderer-advanced', link: '/arcticles/renderer-advanced' },
+                      { text: 'renderer-diff', link: '/arcticles/renderer-diff' },
+                      { text: 'renderer-patch', link: '/arcticles/renderer-patch' }, 
+                      { text: 'stateful-component', link: '/arcticles/stateful-component' }, 
+                      { text: 'vnode', link: '/arcticles/vnode' }, 
                     ]
                   },
                   {

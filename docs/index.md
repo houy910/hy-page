@@ -6,12 +6,12 @@ hero:
   text: 随便写点啥.
   tagline: 帅气又迷人的pitter
   image:
-    src: /logo.png
+    src: /img/logo.png
     alt: pitter
   actions:
     - theme: brand
       text: 点我
-      link: /arcticles/item-a
+      link: /arcticles/renderer
     - theme: alt
       text: View on Gitee
       link: https://gitee.com/geeksdidi
